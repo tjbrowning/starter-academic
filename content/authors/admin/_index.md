@@ -8,10 +8,10 @@ bio: I research the controls on phytoplankton abundance, ecology and physiology
   remote sensing.
 interests:
   - Ocean
-  - biogeochemistry
-  - phytoplankton
-  - nutrients
-  - satellite
+  - Biogeochemistry
+  - Phytoplankton
+  - Nutrients
+  - Satellite
 social: []
 organizations:
   - name: GEOMAR Helmholtz Centre for Ocean Research Kiel
