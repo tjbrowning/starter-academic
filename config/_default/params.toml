@@ -97,7 +97,7 @@ address = {street = "Wischhofstraße 1-3", city = "Kiel", region = "", postcode 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "54.327808", longitude = "10.181637"}, 
+coordinates = {latitude = "54.327808", longitude = "10.181637"}
 
 # Directions for visitors to locate you.
 directions = ""
